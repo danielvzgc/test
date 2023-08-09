@@ -1,0 +1,16 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect {
+      fill: teal;
+    }
+    
+    text {
+      font-family: Arial;
+      font-size: 30px;
+      fill: #2f3194;
+    }
+  </style>
+  
+  <rect width="100%" height="100%" />
+  <text x="10" y="40">Hola, mundo!</text>
+</svg>
