@@ -24,5 +24,5 @@ Donde:
     view: contenido
 }
 ```
-> [!NOTE]
+> [!NOTA]
 > Highlights information that users should take into account, even when skimming.
