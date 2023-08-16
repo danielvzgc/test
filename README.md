@@ -25,5 +25,25 @@ Donde:
 }
 ```
 {% note %}
+
 **Note:** foo
+
 {% endnote %}
+
+{% note %}
+
+ **Note:** foo
+
+{% endnote %}
+
+{* note *}
+
+**Note:** foo
+
+{* endnote *}
+
+{* note *}
+
+ **Note:** foo
+
+{* endnote *}
