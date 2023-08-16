@@ -31,5 +31,6 @@ Donde:
 > El modulo eta disñado para que el valor de `view` sean una referencia a un nodo del DOM, si el nodo es:
 >- Un elemento HTML o un fragmento. Basta con pasar la referencia al nodo o el nodo
 >- Un template. Se pasa el valor de la propiedad `content` de la referenci al nodo del template
+>
 >para cualquier otro nodo o valor diferente a un nodo el contenodo se pasa como una cadena de caracteres
 
