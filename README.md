@@ -24,26 +24,5 @@ Donde:
     view: contenido
 }
 ```
-{% note %}
-
-**Note:** foo
-
-{% endnote %}
-
-{% note %}
-
- **Note:** foo
-
-{% endnote %}
-
-{* note *}
-
-**Note:** foo
-
-{* endnote *}
-
-{* note *}
-
- **Note:** foo
-
-{* endnote *}
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
